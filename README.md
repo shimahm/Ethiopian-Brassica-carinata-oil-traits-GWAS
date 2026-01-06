@@ -1,4 +1,4 @@
-# Ethiopian-Brassica-carinata-oil-traits-GWAS
+# Ethiopian Brassica carinata oil traits GWAS:
 
 “A reproducible companion repository for the Ethiopian B. carinata oil composition/seed colour GWAS manuscript: data processing, GWAS post-processing, genome functional annotation, haplotype effects, GO enrichment, and key figures.”
 
